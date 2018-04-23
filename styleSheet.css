@@ -1,0 +1,41 @@
+
+.content{max-width:980px;margin:auto}
+/*Head**************************************************************************************/
+.head1{padding:0.01em 16px}
+.head2{font-size:24px!important}
+.head3{padding-top:24px!important;padding-bottom:24px!important}
+
+.left{float:left!important}
+.right{float:right!important}
+
+.button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;
+    overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;
+    text-align:center;cursor:pointer;white-space:nowrap}
+
+.white{color:#000!important;background-color:#fff!important}
+
+/*Photo Grid*******************************************************************************/
+
+.row:after,.row:before,.row-padding:after,.row-padding:before,
+.cell-row:before,.cell-row:after{content:"";display:table;clear:both}
+
+.row-padding,.row-padding>.half,.row-padding>.third,.row-padding>.twothird,
+.row-padding>.threequarter,.row-padding>.quarter,.row-padding>.col{padding:0 8px}
+
+.half{float:left;width:100%}
+.half{width:49.99999%}
+
+/*Footer***********************************************************************************/
+
+.light-grey{color:#000!important;background-color:#f1f1f1!important}
+.padding-64{padding-top:64px!important;padding-bottom:64px!important}
+.center{display:inline-block;width:auto}
+.image{max-width:100%;height:auto}
+.padding-32{padding-top:32px!important;padding-bottom:32px!important}
+.large{font-size:18px!important}
+.text-blue{color:blue!important}
+.section{margin-top:16px!important;margin-bottom:16px!important}
+.input{padding:8px;display:block;border:none;border-bottom:1px solid #ccc;width:100%}
+.border{border:1px solid #ccc!important}
+.block{display:block;width:100%}
+.dark-grey{color:#fff!important;background-color:#616161!important}
